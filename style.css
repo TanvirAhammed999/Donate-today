@@ -10,7 +10,7 @@ body {
 }
 
 .donate-hero {
-    height: 500px;
+    height: 550px;
     background-image: url(images/sylhetfloodbanner.jpg);
     background-size: cover;
     background-repeat: no-repeat;
@@ -38,12 +38,100 @@ body {
 }
 
 .donate-hero-content-wrap a {
-    margin-left: 470px;
+    margin-left: 400px;
     text-align: center;
     margin-top: 20px;
     text-decoration: none;
     background: #F88B06;
-    padding: 10px 15px;
+    padding: 15px 30px;
     box-shadow: 5px 5px 15px black;
     border-radius: 2px;
+    color: white;
+}
+
+.donate-hero-content-wrap a:hover {}
+
+.donate-today-wrap {
+    width: 960px;
+    margin: 110px auto;
+    margin-bottom: 30px;
+}
+
+.donate-today-title-p-wrap h1 {
+    text-align: center;
+    font-size: 40px;
+    padding-bottom: 20px;
+
+}
+
+.donate-today-title-p-wrap p {
+    text-align: center;
+    margin: 10px;
+    color: gray;
+}
+
+.donate-today-tk-flex-wrap {
+    display: flex;
+    width: 960px;
+    margin-left: 150px;
+
+}
+
+.tk-box {
+    width: 120px;
+    height: 100px;
+    margin-left: 10px;
+    background-color: rgb(206, 21, 21);
+    margin-top: 30px;
+}
+
+.tk-box h1 {
+    text-align: center;
+    margin-top: 36px;
+
+}
+
+.tk-grey {
+    color: #787878;
+    background: #FAFAFA;
+}
+
+.tk-200-stylr {
+    color: #F88B06;
+    background: #fccb8fab;
+    border: 3px solid #F88B06;
+    border-radius: 4px;
+    box-shadow: 2px 2px 5px black;
+}
+
+.donate-today-button-wrap {
+    width: 960px;
+}
+
+.donate-today-button-wrap h5 {
+    text-align: center;
+    margin-top: 100px;
+    font-size: 15px;
+    font-weight: lighter;
+    color: #BBBBBB;
+    margin-bottom: 10px;
+}
+
+.donate-today-button-box-border {
+    border-top: 1px solid #BBBBBB;
+    width: 640px;
+    margin: 0 auto;
+    padding-top: 50px;
+
+}
+
+.donate-today-button-box-border a {
+    margin-left: 250px;
+    text-align: center;
+    text-decoration: none;
+    background: #F88B06;
+    padding: 15px 30px;
+    box-shadow: 1px 1px 15px rgb(168, 166, 166);
+    border-radius: 2px;
+    color: white;
 }
