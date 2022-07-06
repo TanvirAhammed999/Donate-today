@@ -9,6 +9,10 @@ body {
 
 }
 
+body p {
+    font-family: 'Quicksand', sans-serif;
+}
+
 .donate-hero {
     height: 550px;
     background-image: url(images/sylhetfloodbanner.jpg);
@@ -35,6 +39,7 @@ body {
     margin-top: 25px;
     color: beige;
     line-height: 1.8em;
+    width: 900px;
 
 }
 
@@ -69,6 +74,9 @@ body {
     text-align: center;
     margin: 10px;
     color: gray;
+    width: 600px;
+    margin-left: 200px;
+    line-height: 1.7em;
 }
 
 .donate-today-tk-flex-wrap {
@@ -155,6 +163,7 @@ body {
 .our-donate-plan-h-p-wrap p {
     color: #787878;
     margin-bottom: 35px;
+    line-height: 2em;
 }
 
 .our-donate-plan-info-box-flex {
@@ -181,6 +190,7 @@ body {
 .our-donate-plan-info-box p {
     color: #787878;
     padding-bottom: 30px;
+    line-height: 1.6em;
 }
 
 .box-1-bg {
@@ -295,5 +305,23 @@ input[type="submit"] {
     background: #F88B06;
     border: none;
     margin-left: -3px;
+
+}
+
+footer h1 {
+    font-family: 'Lobster', cursive;
+    padding: 50px 0;
+    text-align: center;
+    background: #0B0D17;
+    color: #F88B06;
+}
+
+footer p {
+
+    text-align: center;
+    background: #0B0D17;
+    color: #F88B06;
+    margin-top: -30px;
+    padding-bottom: 50px;
 
 }
