@@ -314,13 +314,14 @@ footer h1 {
     text-align: center;
     background: #0B0D17;
     color: #F88B06;
+    font-style: italic;
 }
 
 footer p {
 
     text-align: center;
     background: #0B0D17;
-    color: #F88B06;
+    color: white;
     margin-top: -30px;
     padding-bottom: 50px;
 
