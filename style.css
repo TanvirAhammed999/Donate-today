@@ -93,7 +93,7 @@ body {
 
 .tk-grey {
     color: #787878;
-    background: #FAFAFA;
+    background: #f7f3f3;
 }
 
 .tk-200-stylr {
@@ -134,4 +134,62 @@ body {
     box-shadow: 1px 1px 15px rgb(168, 166, 166);
     border-radius: 2px;
     color: white;
+}
+
+.our-donate-plan {
+    width: 960px;
+}
+
+.our-donate-plan-h-p-wrap {
+    text-align: center;
+    margin-left: 350px;
+    margin-top: 140px;
+}
+
+.our-donate-plan-h-p-wrap h1 {
+    padding-bottom: 30px;
+    font-size: 40px;
+}
+
+.our-donate-plan-h-p-wrap p {
+    color: #787878;
+    margin-bottom: 35px;
+}
+
+.our-donate-plan-info-box-flex {
+    display: flex;
+    width: 960px;
+    margin-left: 200px;
+}
+
+.our-donate-plan-info-box {
+    width: 320px;
+    background: #F88B06;
+    margin-left: 15px;
+    padding: 20px;
+}
+
+.our-donate-plan-info-box img {
+    padding: 30px 0;
+}
+
+.our-donate-plan-info-box h1 {
+    padding-bottom: 30px;
+}
+
+.our-donate-plan-info-box p {
+    color: #787878;
+    padding-bottom: 30px;
+}
+
+.box-1-bg {
+    background: #EDF5F6;
+}
+
+.box-2-bg {
+    background: #FFEEEE;
+}
+
+.box-3-bg {
+    background: #FFF4D6;
 }
