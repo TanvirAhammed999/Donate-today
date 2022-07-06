@@ -1,0 +1,49 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Roboto', sans-serif;
+
+}
+
+.donate-hero {
+    height: 500px;
+    background-image: url(images/sylhetfloodbanner.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.donate-hero-content-wrap {
+    margin: 0 auto;
+    width: 960px;
+}
+
+.donate-hero-content-wrap h1 {
+    color: #F88B06;
+    text-align: center;
+    font-size: 65px;
+    padding-top: 120px;
+}
+
+.donate-hero-content-wrap p {
+    text-align: center;
+    margin-left: 100px;
+    margin-bottom: 25px;
+    margin-top: 25px;
+    color: beige;
+    line-height: 1.2rem;
+}
+
+.donate-hero-content-wrap a {
+    margin-left: 470px;
+    text-align: center;
+    margin-top: 20px;
+    text-decoration: none;
+    background: #F88B06;
+    padding: 10px 15px;
+    box-shadow: 5px 5px 15px black;
+    border-radius: 2px;
+}
