@@ -193,3 +193,51 @@ body {
 .box-3-bg {
     background: #FFF4D6;
 }
+
+.how-to-contribute-wrape-flex {
+    display: flex;
+    width: 960px;
+    margin: 0 auto;
+}
+
+.half-width {
+    width: 50%;
+    margin-top: 100px;
+}
+
+.how-to-contribute-content {
+    margin-top: 130px;
+    padding: 10px;
+}
+
+.how-to-contribute-content h1 {
+    font-size: 50px;
+    padding-top: 50px;
+}
+
+.how-to-contribute-content p {
+    color: #787878;
+    padding: 20px 0;
+    line-height: 2em;
+    margin-bottom: 30px;
+
+}
+
+.how-to-contribute-content a {
+    margin-left: 50px;
+    text-align: center;
+    text-decoration: none;
+    background: #F88B06;
+    padding: 15px 30px;
+    box-shadow: 1px 1px 15px rgb(168, 166, 166);
+    border-radius: 2px;
+    color: white;
+}
+
+.how-to-contribute-img {
+    background: url(images/donation6.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 10px;
+    height: 500px;
+}
