@@ -198,6 +198,7 @@ body {
     display: flex;
     width: 960px;
     margin: 0 auto;
+    gap: 40px;
 }
 
 .half-width {
@@ -240,4 +241,23 @@ body {
     background-size: cover;
     border-radius: 10px;
     height: 500px;
+}
+
+.get-update-wrape {
+    text-align: center;
+    width: 960px;
+    margin: 110px auto;
+}
+
+.get-update-wrape h1 {
+    font-size: 40px;
+}
+
+.get-update-wrape p {
+    width: 700px;
+    margin-left: 160px;
+    line-height: 2em;
+    padding-top: 10px;
+    color: #787878;
+
 }
